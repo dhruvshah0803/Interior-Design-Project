@@ -1,0 +1,24 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"*.cpp": "cpp",
+			"DEQUE.C": "cpp",
+			"LINKLIST.C": "cpp",
+			"D_SSSP.C": "cpp",
+			"APSP.C": "cpp",
+			"BINARY.C": "cpp",
+			"DSSP.C": "cpp",
+			"QUICKSORT.C": "cpp",
+			"MAXMIN.C": "cpp",
+			"SSSP.C": "cpp",
+			"SORT.C": "cpp",
+			"STACK.C": "cpp"
+		},
+		"liveServer.settings.multiRootWorkspaceName": "Project_Interior_Design"
+	}
+}
