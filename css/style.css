@@ -301,3 +301,14 @@ ol.type li a:hover {
 #footer a:hover {
   color: #a7c44c;
 }
+::-webkit-scrollbar{
+  width:15px;
+  background:whitesmoke;
+}
+::-webkit-scrollbar-thumb{
+  height: 200px;
+  position :relative;
+  background: linear-gradient(#060930,#a7c44c);
+  border-radius: 10px;
+}
+
